@@ -3,10 +3,11 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Himanshi62&show_icons=true&theme=radical)](https://git.io/streak-stats)
 
 ### Welcome
-Hi, I'm Balbir Yadav. I'm pursuing B.Tech from IIT Bombay. I'm a passionate full stack developer. 2+ years of experience in Django and Django rest framework. I'm also pursuing minor in Data Science offered by CMiNDS, IIT Bombay. I have experience in building and deploying full-stack and Machine learning projects. 
+Meet Himanshi Yadav, a B.Tech student at the esteemed IIT Bombay. As the Web Head of Aakaar IIT Bombay, Himanshi has developed a solid technical foundation in web development and has a proven track record of building multiple full-stack websites to fulfill the diverse needs of the Aakaar portfolio.
 
-I have done some competitive programming but instead I prefer doing projects and learning new technologies or gaining more experience in what I already know.
-Companies I have been associated as an intern or in other roles are Microsoft, eRentals, Bank of Baroda and Unacademy.
+In addition to her technical skills, Himanshi is committed to continuous learning and improvement. Currently, she is working on strengthening her data structures and algorithms knowledge through consistent practice and problem-solving.
+
+Himanshi is an avid badminton player and enjoys reading books in her free time. With her strong technical foundation, passion for learning and improving, and excellent teamwork and leadership skills, Himanshi is a valuable asset to any team and open to opportunities to collaborate and learn from other professionals in the industry.
 
 
 
@@ -19,7 +20,7 @@ More about me
 - 👯 I’m looking to collaborate on exciting Projects
 - 🤔 I’m looking for help with working in real world projects
 - 💬 Ask me about DSA and Data Science
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/yadavbalbir/" rel="nofollow">Linkedin</a></li>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/himanshi-yadav-a01b2920a/" rel="nofollow">Linkedin</a></li>
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: 😎
 
